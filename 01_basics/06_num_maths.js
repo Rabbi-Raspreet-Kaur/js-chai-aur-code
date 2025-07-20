@@ -27,3 +27,6 @@ console.log(Math.floor(4.9));  // 4
 // max min ...... math.max(2,4,7,2)
 
 console.log(Math.random());  // always gives value btw 0 and 1
+console.log(Math.random()*10 + 1);      //shifts one value towards right
+
+
